@@ -1,0 +1,13 @@
+41      # course
+1059    # assignment
+# includes
+# the following are (input, expected output) pairs
+# test case 1
+asdfds\n
+Incorrect!\n
+# test case 2
+343@dfe"sdfe\n
+Incorrect!\n
+# test case 3
+secr3t\n
+Correct!\n

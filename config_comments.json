@@ -1,0 +1,64 @@
+{
+"course":795,
+"assignment": 952,
+"rubric": { "opening":
+			{
+				"90": "An excellent effort, %n%.",
+				"70": "A good effort, %n%.",
+				"50": "A satisfactory effort, %n%.",
+				"0": "A disappointing effort, %n%."
+			},
+			"closing":
+			{
+				"0": "Overall, congratulations on completing Big Data for 2018, %n%! Whether or not you continue to pursue programming as part of your future career, please know that it will only become more prelevant in whichever profession you choose. Best regards, Mr Huynh and Mr Toronyi!"
+			},
+			"conjunctions":
+			{
+				"positives":
+					[
+						"",
+						"p:additionally,",
+						"p:it was good to see that",
+						"m:also"
+					],
+				"neutrals":
+					[
+						"",
+						"m:also"
+					],
+				"constructives":
+					[
+						"p:unfortunately",
+						"m:also"
+					]
+			},
+			"extensions": [6],
+			"criteria":
+			{
+				"0":
+				{	"ranges": [2, 1, 0],
+					"positives":"%p% your discussion was %m% well written, structured and outlined clearly how you sourced your data.",
+					"constructives":"%p%your discussion was rather brief and could have benefited from more detail."
+				},
+				"2":
+				{	"ranges": [2, 1, 0],
+					"positives":"%p%you %m% described how you varied the epochs, learning rate, and hidden nodes well.",
+					"constructives":"%p%you %m% needed to provide more details on how you varied the epochs, learning rate, and hidden nodes."
+				},
+				"4":
+				{	"ranges": [3, 1, 0],
+					"positives":"",
+					"constructives":"%p%you %m% did not submit a network.py file so your neural network was not methodically assessed and you were not awarded marks here."
+				},
+				"5":
+				{	"ranges": [3, 1, 0],
+					"positives":"%p%your neural network %m% performed well against the test set.",
+					"constructives":"%p%you could have %m% performed some more testing to ensure that your neural network fared a little better against the teacher's testset."
+				},
+				"7":
+				{	"ranges": [3, 1, 0],
+					"positives":"",
+					"constructives":"please be careful about following the adminstration directions in your submission."
+				}
+			}}
+}
