@@ -1,0 +1,10 @@
+{
+"course":41,
+"assignment": 1065,
+"includes": "",
+"execute": "study.py",
+"directory": "",
+"testcases":[["secr3t\n","Correct!\n"],
+			 ["sdfwe\n","Incorrect!\n"],
+			 ["secret\n","Incorrect!\n"]]
+}
